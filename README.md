@@ -3,7 +3,7 @@
 Welcome to the `git` tutorial!
 
 This README file contains a listing of all that we'll cover today.
-And instead of a presentation-style approach, we're going to get our hands a little dirty...
+And instead of a _just_ presentation-style approach, we're going to get our hands a little dirty...
 
 First, we'll cover the basics
 
