@@ -11,7 +11,7 @@ First, we'll cover the basics
 2. Editing a file that we're created for you
 3. Commiting your first change (we knew you could do it!)
 4. Pushing those changes to a remote server
-5. Reverting changes (i.e. "oops...")
+5. Reverting changes ("oops...")
 
 Then, we'll move onto some extras
 
@@ -22,7 +22,7 @@ Then, we'll move onto some extras
 Lastly, we'll discuss some tips and tricks
 - How to write a good commit message
 - Keeping your workspace organized!
-- Where to learn more, troubleshoot
-- GitHub Student Developer Pack
+- Where to learn more and troubleshoot
+- GitHub Student Developer Pack: https://education.github.com/pack
 
 Thank you for your attendance! 
